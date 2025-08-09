@@ -1,0 +1,43 @@
+# --- Python & Virtual Environments ---
+# Ignore virtual environment folders
+/venv/
+/env/
+/.venv/
+/.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Jupyter Notebook ---
+# Ignore notebook checkpoint files
+.ipynb_checkpoints/
+
+# --- IDE / Editor Specific ---
+# Ignore VS Code specific folder
+/.vscode/
+# Ignore PyCharm specific folder
+/.idea/
+# Ignore other editor files
+*.swp
+
+# --- Project-Specific Folders & Files ---
+# Ignore Anaconda project metadata
+/.anaconda_projects/
+
+# Ignore virtual documents (if auto-generated)
+/.virtual_documents/
+
+# Ignore datasets (uncomment if you want to track it)
+/dataset/
+
+# Ignore generated samples and plots
+# /gan_samples/
+# /gan_samples_WGAN/
+# *.png
+# *.jpg
+# *.jpeg
+*.gif
+*.log
