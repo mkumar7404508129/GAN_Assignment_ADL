@@ -15,7 +15,6 @@ This repository contains implementations of various Generative Adversarial Netwo
 - [Usage](#usage)
 - [Training](#training)
 - [Results](#results)
-- [License](#license)
 
 ## Introduction
 
@@ -75,13 +74,3 @@ Each notebook contains a training loop that trains the respective GAN model for 
 ## Results
 
 After training, the generated images and loss plots can be found in the respective folders. The loss plots show the training progress of the generator and discriminator.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Instructions for Use
-- Replace `<repository-url>` and `<repository-directory>` with the actual URL of your repository and the directory name.
-- You can add more sections or modify existing ones based on your project requirements.
-- Make sure to include any additional instructions or information that might be relevant to users of your project.
