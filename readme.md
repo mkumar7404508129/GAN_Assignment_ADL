@@ -59,6 +59,8 @@ The models are trained on the MNIST dataset, which consists of handwritten digit
    - `CNN_WGAN.ipynb`: Wasserstein GAN implementation.
    - `CNN_SNGAN.ipynb`: Spectral Normalization GAN implementation.
    - `MLP_GAN.ipynb`: Multi-Layer Perceptron GAN implementation.
+   - `MLP_WGAN.ipynb`: Multi-Layer Perceptron Wasserstein GAN implementation.
+   - `MLP_SNGAN.ipynb`: Multi-Layer Perceptron Spectral Normalization GAN implementation.
 
    You can run the notebooks using Jupyter:
 
